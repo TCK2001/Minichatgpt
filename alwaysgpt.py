@@ -8,7 +8,7 @@ import tkinter as tk
 from tkinter import *
 import openai
 
-openai.api_key = "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"
+openai.api_key = "your api"
 
 messages = []
 
